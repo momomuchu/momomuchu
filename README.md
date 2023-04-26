@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, AWS and others**
 
-- 👨‍💻 All of my projects are available at [https://mohamedmaache.eu](https://mohamedmaache.eu)
+- 👨‍💻 All of my projects are available at [http://mohamedmaache.eu](mohamedmaache.eu)
 
 - 📫 How to reach me **mohamedmaache68@gmail.com**
 
