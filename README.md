@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MongoDB, AWS and others**
 
-- 👨‍💻 All of my projects are available at [http://mohamedmaache.eu](mohamedmaache.eu)
+- 👨‍💻 Some of my projects are available at [http://mohamedmaache.eu](mohamedmaache.eu)
 
 - 📫 How to reach me **mohamedmaache68@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/momomuchu/cv/blob/main/CvUltime.pdf](https://github.com/momomuchu/cv/blob/main/CvUltime.pdf)
+- 📄 My resume [https://github.com/momomuchu/cv/blob/main/CvUltime.pdf](https://github.com/momomuchu/cv/blob/main/CvUltime.pdf)
 
 - ⚡ Fun fact **there is none actually**
 
