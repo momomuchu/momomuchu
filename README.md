@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed MAACHE</h1>
-<h3 align="center">Doing some Data Science and Web/Mobile Dev</h3>
+<h3 align="center">Nothing</h3>
 
 - 🔭 I’m currently working on **Soon known software**
 
 - 🌱 I’m currently learning **MongoDB, AWS and others**
 
-- 👨‍💻 Some of my projects are available at [http://mohamedmaache.eu](mohamedmaache.eu)
+- 👨‍💻 Some of my projects are available at http://mohamedmaache.eu
 
 - 📫 How to reach me **mohamedmaache68@gmail.com**
 
-- 📄 My resume [https://github.com/momomuchu/cv/blob/main/CvUltime.pdf](https://github.com/momomuchu/cv/blob/main/CvUltime.pdf)
+- 📄 My resume [https://github.com/momomuchu/cv/blob/main/CvUltime.pdf](https://github.com/momomuchu/cv/blob/main/Cv.pdf)
 
 - ⚡ Fun fact **there is none actually**
 
