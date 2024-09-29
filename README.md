@@ -3,14 +3,6 @@
 
 - 🔭 I’m currently working on **Soon known software**
 
-- 🌱 I’m currently learning **MongoDB, AWS and others**
-
-- 👨‍💻 Some of my projects are available at http://mohamedmaache.eu
-- 👨‍💻 Some of my projects are available at https://www.youtube.com/channel/UCX2nlet4boXO9seb6EmOD8w
-
-- 📫 How to reach me **mohamedmaache68@gmail.com**
-
-- 📄 My resume [https://github.com/momomuchu/cv/blob/main/Cv.pdf](https://github.com/momomuchu/cv/blob/main/Cv.pdf)
 
 - ⚡ Fun fact **there is none actually**
 
