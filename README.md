@@ -21,23 +21,6 @@ applicative.*
 - **Application security** - authorized bug bounty, access-control / IDOR / XSS
   reasoning, security tooling.
 
-## Selected public projects
-
-- [`sweep`](https://github.com/momomuchu/sweep) - DFS graph crawler for frontend
-  testing. Playwright crawls your app as a graph and audits every page:
-  breakpoints, a11y, states, dark mode, performance. Claude Code skill.
-- [`edge-case-hunter`](https://github.com/momomuchu/edge-case-hunter) -
-  systematic edge-case discovery and bug hunting (12 attack vectors,
-  150+ patterns). Claude Code skill.
-- [`codeboard`](https://github.com/momomuchu/codeboard) - open-source visual
-  design canvas for Claude Code, MCP-powered (Onlook fork, no auth).
-- [`burp-wrapper`](https://github.com/momomuchu/burp-wrapper) - Python wrapper
-  for the Burp Suite MCP Server API, exposing Burp tools to AI agents.
-- [`youtube-insights`](https://github.com/momomuchu/youtube-insights) - Claude
-  Code skill: extract transcripts and key insights from YouTube via yt-dlp.
-- [`Disney-Plus-Clone`](https://github.com/momomuchu/Disney-Plus-Clone) - my
-  first React app (July 2022, React 18 + Redux + Firebase).
-
 ## Track record since 2022
 
 Coding in public on GitHub since **July 2022** (first React app). TypeScript and
